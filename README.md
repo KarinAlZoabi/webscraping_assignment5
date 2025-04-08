@@ -1,24 +1,4 @@
-1. Mean Absolute Error (MAE)
-   Definition:
-   MAE measures the average absolute difference between the predicted values and the actual values. It gives a straightforward interpretation of how far off, on average, the predictions are from the true values.
-
-In this assignment, the MAE is 10.07, which is a pretty high number, so the predictions are not accurate.
-
-2. Mean Squared Error (MSE)
-   Definition:
-   MSE is the average of the squared differences between predicted and actual values. Squaring emphasizes larger errors more heavily.
-
-The MSE is really high (161.69), which indicates a huge fault in the data.
-
-3. Root Mean Squared Error (RMSE)
-   Definition:
-   RMSE is simply the square root of MSE. It brings the error metric back to the same scale as the target variable, making it more interpretable.
-
-Since RMSE is the square root of MSE, then the value of it will be the square root of 161.69, which is 12.72. The model predicts 12.72 percentage points off from the actual discount.
-
-# 📈 Model Evaluation Metrics
-
-## 1. **Mean Absolute Error (MAE)**
+# 📈 Model Evaluation Metrics## 1. **Mean Absolute Error (MAE)**
 
 **Definition:**  
 MAE measures the average absolute difference between the predicted values and the actual values. It provides a straightforward interpretation of how far off, on average, the predictions are from the true values.
