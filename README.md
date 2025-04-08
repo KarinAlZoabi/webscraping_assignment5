@@ -1,4 +1,6 @@
-# 📈 Model Evaluation Metrics## 1. **Mean Absolute Error (MAE)**
+# 📈 Model Evaluation Metrics##
+
+1. **Mean Absolute Error (MAE)**
 
 **Definition:**  
 MAE measures the average absolute difference between the predicted values and the actual values. It provides a straightforward interpretation of how far off, on average, the predictions are from the true values.
